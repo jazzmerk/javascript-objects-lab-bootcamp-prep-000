@@ -3,5 +3,6 @@ function updateObjectWithKeyAndValue(object, key, value){
 object.key=value;  
 }
 
-function destructivelyUpdateObjectWithKeyAndValue (){
+function destructivelyUpdateObjectWithKeyAndValue (object,key,value){
+  object.key=value;
   }
