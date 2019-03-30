@@ -7,7 +7,7 @@ function updateObjectWithKeyAndValue(object, key, value){
   function deleteFromObjectByKey (object,key){
   
   assign.Object ({},object);
-  delete {
+  delete {key.value}
   
   }
 function destructivelyUpdateObjectWithKeyAndValue (object,key,value){
